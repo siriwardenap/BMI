@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Enter height and weight here</h2>
+<h2>Enter height and weight here change 1 MASTER</h2>
 <br>
 <form action="${pageContext.request.contextPath}/convertMetric" method=post>
 <table  >
