@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>BMI value calculated as modified header</h1>
+<h1>BMI value calculated as modified header modified again</h1>
 <p style="color: #f00">${requestScope.result}</p>
 <hr />	
 
