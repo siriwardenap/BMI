@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 98F7-2E77
+
+ Directory of C:\Users\Trsp\Documents\GitHub\BMI
+
+02/11/2013  06:00 PM    <DIR>          .
+02/11/2013  06:00 PM    <DIR>          ..
+02/11/2013  05:59 PM               290 .gitignore
+02/11/2013  03:55 PM                84 README.md
+02/11/2013  03:55 PM    <DIR>          SiriPereraMidTermWEBfinal
+02/11/2013  06:00 PM                 0 t.txt
+               3 File(s)            374 bytes
+               3 Dir(s)  63,958,560,768 bytes free
