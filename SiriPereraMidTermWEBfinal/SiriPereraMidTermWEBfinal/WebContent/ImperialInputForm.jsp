@@ -7,14 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Enter height and weight here WJ</h2>
+
+<h2>Enter height and weight here</h2>
 <br>
-<form action="${pageContext.request.contextPath}/convertMetric" method=post>
+<form action="${pageContext.request.contextPath}/convertImperial" method=post>
 <table  >
 <tr>
-<td>Weight in kilograms</td>
+<td>Weight in pounds</td>
 <td><input type="text" name="weight" id="txtweight"/></td>
-<td>Height in centimeters</td>
+<td>Height in inches</td>
 <td><input type="text" name="height" id="txtheight"/></td>
 </tr>
 </table>
