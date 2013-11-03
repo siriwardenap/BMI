@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here change 1</title>
+<title>Insert title here</title>
 </head>
 <body>
 <h1>BMI value calculated as modified header modified again</h1>
